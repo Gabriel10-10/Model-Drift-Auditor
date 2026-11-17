@@ -19,3 +19,8 @@
 - metrics
 ![alt text](image-3.png)
 ![alt text](image-4.png)
+
+- 
+
+- grouped metrics
+![alt text](image-5.png)
