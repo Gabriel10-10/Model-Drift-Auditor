@@ -24,3 +24,6 @@
 
 - grouped metrics
 ![alt text](image-5.png)
+
+-psi 
+![alt text](image-6.png)
