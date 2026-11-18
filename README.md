@@ -27,3 +27,6 @@
 
 -psi 
 ![alt text](image-6.png)
+
+- disagreements
+![alt text](image-7.png)
